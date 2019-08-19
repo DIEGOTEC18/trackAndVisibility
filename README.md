@@ -1,2 +1,2 @@
 # trackAndVisibility
-The microcontroller code for the track and visibility zip line robot for Modelo.
+The microcontroller code for the track and visibility RFID UHF zip line robot for Grupo Modelo.
